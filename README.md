@@ -1,6 +1,6 @@
 # awesome-c-sharp
 
-A curated list of awesome C-Sharp frameworks, libraries and software.
+A curated list of awesome C# frameworks, libraries and software.
 
 * Learning and Reference
 	* [Tutorials and Books](#tutorials-and-books)
@@ -613,8 +613,8 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 ### Computer Vision
 
 * [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - OpenCV wrapper for .NET
-* [charlesw/tesseract](https://github.com/charlesw/tesseract) - A .Net wrapper for tesseract-ocr
 * [homuler/MediaPipeUnityPlugin](https://github.com/homuler/MediaPipeUnityPlugin) - Unity plugin to run MediaPipe
+* [charlesw/tesseract](https://github.com/charlesw/tesseract) - A .Net wrapper for tesseract-ocr
 * [emgucv/emgucv](https://github.com/emgucv/emgucv) - Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library.
 * [sdcb/PaddleSharp](https://github.com/sdcb/PaddleSharp) - .NET/C# binding for Baidu paddle inference library and PaddleOCR
 * [andrewkirillov/AForge.NET](https://github.com/andrewkirillov/AForge.NET) - AForge.NET Framework is a C# framework designed for developers and researchers in the fields of Computer Vision and Artificial Intelligence - image processing, neural networks, genetic algorithms, machine learning, robotics, etc.
@@ -942,12 +942,12 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 * [immense/Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.
 * [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows
-* [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
 * [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support Mihomo
+* [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
 * [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.
 * [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
-* [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
 * [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步、历史记录管理工具 / Cross-platform cipboard syncing, history management tool
+* [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
 * [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 * [HearthSim/Hearthstone-Deck-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker) - A deck tracker and deck manager for Hearthstone on Windows
 * [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer. https://www.yuque.com/indiff/qttabbar
@@ -1000,8 +1000,8 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [bloxstraplabs/bloxstrap](https://github.com/bloxstraplabs/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
 * [RoundedTB/RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars! *(archived)*
 * [Pixeval/Pixeval](https://github.com/Pixeval/Pixeval) - Wow. Yet another Pixiv client!
-* [shaked6540/YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
 * [luolangaga/tubatools](https://github.com/luolangaga/tubatools) - 图吧工具箱 winUI3 版
+* [shaked6540/YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
 * [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
 * [Jays2Kings/DS4Windows](https://github.com/Jays2Kings/DS4Windows) - Like those other ds4tools, but sexier *(archived)*
 * [jaquadro/NBTExplorer](https://github.com/jaquadro/NBTExplorer) - A graphical NBT editor for all Minecraft NBT data sources
@@ -1023,8 +1023,8 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
 * [boy1dr/SpleeterGui](https://github.com/boy1dr/SpleeterGui) - Windows desktop front end for Spleeter - AI source separation
 * [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款功能强、可定制、跨平台，适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
-* [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Automatically detect and skip intro/credit sequences in Jellyfin
 * [Tianyu199509/DeskBox](https://github.com/Tianyu199509/DeskBox) - A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
+* [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Automatically detect and skip intro/credit sequences in Jellyfin
 * [Uotan-Dev/UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT) - 现代化 Android & OpenHarmony 工具箱 | A Modern Toolbox for Android & OpenHarmony Devices
 * [Coolapk-UWP/Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) - 一个基于 UWP 平台的第三方酷安客户端
 * [KSP-CKAN/CKAN](https://github.com/KSP-CKAN/CKAN) - The Comprehensive Kerbal Archive Network
@@ -1210,8 +1210,8 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [mob-sakai/ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) - Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas.
 * [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations
 * [liangxiegame/QFramework](https://github.com/liangxiegame/QFramework) - Godot/Unity3D System Design Architecture
-* [dbrizov/NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity
 * [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu) - An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+* [dbrizov/NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity
 * [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 * [focus-creative-games/luban](https://github.com/focus-creative-games/luban) - luban是一个强大、易用、优雅、稳定的游戏配置解决方案。luban is a powerful, easy-to-use, elegant and stable game configuration solution.
 * [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
@@ -1317,10 +1317,10 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [Dandarawy/UnityBookPageCurl](https://github.com/Dandarawy/UnityBookPageCurl) - Page curl effect for Unity3d using UGUI
 * [BluestormDNA/ProjectPSX](https://github.com/BluestormDNA/ProjectPSX) - Experimental C# Playstation Emulator
 * [dbrizov/Unity-CharacterController](https://github.com/dbrizov/Unity-CharacterController) - Third Person Controller for Unity
-* [handcircus/Unity-Resource-Checker](https://github.com/handcircus/Unity-Resource-Checker) - Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them)
 * [0x7c13/Pal3.Unity](https://github.com/0x7c13/Pal3.Unity) - The Legend of Sword and Fairy 3 (仙剑奇侠传三) & The Legend of Sword and Fairy 3 Gaiden: Wenqing Pian (仙剑奇侠传三外传：问情篇) re-implementation using C#/Unity
-* [Nition/UnityOctree](https://github.com/Nition/UnityOctree) - A dynamic, loose octree implementation for Unity written in C# *(archived)*
+* [handcircus/Unity-Resource-Checker](https://github.com/handcircus/Unity-Resource-Checker) - Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them)
 * [LogicalError/realtime-CSG-for-unity](https://github.com/LogicalError/realtime-CSG-for-unity) - Realtime-CSG, CSG level editor for Unity
+* [Nition/UnityOctree](https://github.com/Nition/UnityOctree) - A dynamic, loose octree implementation for Unity written in C# *(archived)*
 * [AnyRPG/AnyRPGCore](https://github.com/AnyRPG/AnyRPGCore) - Open source Role Playing Game engine for Unity 3D written in C#.
 * [cjddmut/Unity-2D-Platformer-Controller](https://github.com/cjddmut/Unity-2D-Platformer-Controller) - A customizable 2D platformer motor that handles mechanics such as double jumps, wall jumps, and corner grabs. Includes a player controlled prefab that can be dropped into any scene for immediate support.
 * [ikpil/DotRecast](https://github.com/ikpil/DotRecast) - DotRecast - a C# port of Recast & Detour, Industry-standard navigation mesh toolset for .NET, Unity3D, games, servers
@@ -1403,8 +1403,8 @@ A curated list of awesome C-Sharp frameworks, libraries and software.
 * [shack2/SNETCracker](https://github.com/shack2/SNETCracker) - 超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。
 * [matterpreter/DefenderCheck](https://github.com/matterpreter/DefenderCheck) - Identifies the bytes that Microsoft Defender flags on.
 * [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2) - OpenBullet reinvented
-* [BeichenDream/GodPotato](https://github.com/BeichenDream/GodPotato)
 * [googleprojectzero/sandbox-attacksurface-analysis-tools](https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools) - Set of tools to analyze Windows sandboxes for exposed attack surface.
+* [BeichenDream/GodPotato](https://github.com/BeichenDream/GodPotato)
 * [outflanknl/EvilClippy](https://github.com/outflanknl/EvilClippy) - A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.
 * [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to IPBan Pro today and get a discount. Learn more at ↓
 * [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
